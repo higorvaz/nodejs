@@ -1,2 +1,2 @@
 # nodejs
-Node JS
+Node JS scripts for web scraping and web interaction like Instagram, YouTube, WhatsApp
